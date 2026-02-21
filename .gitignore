@@ -1,0 +1,40 @@
+# Gitignore for ROS 2 / C++ / Python Projects
+
+## Build output
+build/
+install/
+log/
+devel/
+.catkin_workspace
+
+## Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+.venv/
+venv/
+.env
+
+## C++
+*.o
+*.out
+*.a
+*.d
+
+## IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+## ROS
+*.rosinstall
+.ros/
+
+## Logs
+*.log
