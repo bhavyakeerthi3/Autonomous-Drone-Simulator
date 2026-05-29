@@ -195,6 +195,20 @@ This project builds upon the outstanding work of several open-source communities
 | Zhang et al. — *LOFF* | LiDAR and Optical Flow Fusion Odometry — the core localization algorithm |
 
 ---
+## 📰 Publication
+
+This project is accompanied by a research paper published on Zenodo:
+
+**Enhanced Multi-Modal UAV Perception using Large Language Models 
+for Autonomous Disaster Reconnaissance**
+
+https://zenodo.org/records/20442636
+
+> If you use this work, please cite:
+> Bhavya Keerthi K. (2026). Enhanced Multi-Modal UAV 
+> Perception using Large Language Models for Autonomous Disaster 
+> Reconnaissance. Zenodo. https://doi.org/10.5281/zenodo.20442636
+
 
 ## 📄 License
 
